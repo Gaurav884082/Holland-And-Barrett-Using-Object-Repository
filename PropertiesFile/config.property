@@ -1,0 +1,9 @@
+ChromeDriver = C:\\SeleniumCompletePrograms\\ObjectRepository_03\\ChromeBrowserJars\\chromedriver.exe
+FirefoxDriver = C:\\SeleniumCompletePrograms\\ObjectRepository_03\\EdgeBrowserJars\\msedgedriver.exe
+EdgeDriver = C:\\SeleniumCompletePrograms\\ObjectRepository_03\\FirefoxBrowserJars\\geckodriver.exe
+
+baseUrl= https://auth.hollandandbarrett.com/u/login?
+Uname= username
+Psd = password
+SignIn=//button[normalize-space()='Sign In']
+ExcelSheet=C:\\SeleniumCompletePrograms\\ObjectRepository_01\\TestData\\TestData2.xlsx
